@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Manufacturing-Intelligence/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Manufacturing-Intelligence?style=flat-square" alt="GitHub Stars"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Manufacturing-Intelligence/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Manufacturing-Intelligence?style=flat-square" alt="GitHub_Stars"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Manufacturing-Intelligence/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Manufacturing-Intelligence?style=flat-square" alt="GitHub Forks"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Manufacturing-Intelligence/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Manufacturing-Intelligence?style=flat-square" alt="License"/></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -54,9 +54,9 @@ Below is a curated comparison of leading commercial Manufacturing Intelligence, 
 
 ## 🔓 Open-Source Manufacturing Software & Libraries
 
-The following open-source building blocks allow engineering teams to build self-hosted Manufacturing Intelligence, OEE, and IIoT data pipelines. Sorted by GitHub Star Count (descending).
+The following open-source building blocks allow engineering teams to build self-hosted Manufacturing Intelligence, OEE, and IIoT data pipelines. Sorted by GitHub Stars_Count (descending).
 
-| Open-Source Project 🛠️ | Description 💡 | GitHub Stars ⭐ |
+| Open-Source Project 🛠️ | Description 💡 | GitHub_Stars ⭐ |
 | :--- | :--- | :--- |
 | **[Node-RED](https://github.com/node-red/node-red)** | Low-code flow-based programming tool widely used for IIoT machine data integration and transformation pipelines. | [<img src="https://img.shields.io/github/stars/node-red/node-red?style=social&color=white" alt="node-red stars"/>](https://github.com/node-red/node-red/stargazers) |
 | **[ThingsBoard](https://github.com/thingsboard/thingsboard)** | Open-source IoT platform for device management, data collection, processing, and industrial dashboard visualization. | [<img src="https://img.shields.io/github/stars/thingsboard/thingsboard?style=social&color=white" alt="thingsboard stars"/>](https://github.com/thingsboard/thingsboard/stargazers) |
